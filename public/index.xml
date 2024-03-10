@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Áleson Medeiros</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Áleson Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link styles</title>
+      <link>http://localhost:1313/styles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/styles/</guid>
+      <description>These are all the built-in link styles available in Lynx. Don&amp;rsquo;t forget that you can also create your own styles &amp;mdash; check the readme for more details. email&#xD;link&#xD;amazon&#xD;apple&#xD;codepen&#xD;dev&#xD;discord&#xD;dribbble&#xD;facebook&#xD;flickr&#xD;foursquare&#xD;github&#xD;gitlab&#xD;google&#xD;instagram&#xD;keybase&#xD;kickstarter&#xD;lastfm&#xD;linkedin&#xD;mastodon&#xD;medium&#xD;microsoft&#xD;patreon&#xD;pinterest&#xD;reddit&#xD;slack&#xD;snapchat&#xD;soundcloud&#xD;spotify&#xD;stack-exchange&#xD;stack-overflow&#xD;steam&#xD;telegram&#xD;threads&#xD;tiktok&#xD;tumblr&#xD;twitch&#xD;twitter&#xD;whatsapp&#xD;x&#xD;youtube&#xD;</description>
+    </item>
+  </channel>
+</rss>

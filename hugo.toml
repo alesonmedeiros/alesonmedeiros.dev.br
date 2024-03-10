@@ -1,0 +1,29 @@
+baseURL = 'https://alesonmedeiros.dev.br/'
+languageCode = 'pt-br'
+title = "Áleson Medeiros"
+theme = "lynx"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Áleson Medeiros"
+  headline = "Um cara simples, só isso!"
+  image = "avatar.jpg"
+  #image = "author.jpg"
+  links = [
+    { link = { href = "https://pinguimcriativo.com/", text = "O Pinguim Criativo", target = "_blank", icon = "link" } },
+    { instagram = "https://instagram.com/pinguimcriativo" },
+    { x = "https://x.com/pinguimcriativo" },
+    { telegram = "https://t.me/pinguimcriativo" },
+    { github = "https://github.com/alesonmedeiros" },
+    { telegram = "https://t.me/AlesonMedeiros" },
+    { linkedin = "https://www.linkedin.com/in/alesonmedeiros/" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
