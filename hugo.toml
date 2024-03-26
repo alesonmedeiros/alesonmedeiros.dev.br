@@ -16,8 +16,9 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "https://instagram.com/pinguimcriativo" },
     { x = "https://x.com/pinguimcriativo" },
     { telegram = "https://t.me/pinguimcriativo" },
+    { github = "https://github.com/pinguimcriativo" },
+    { link = { href = "https://alesonmedeiros.com.br/", text = "Áleson Medeiros | Blog", target = "_blank", icon = "link" } },
     { github = "https://github.com/alesonmedeiros" },
-    { telegram = "https://t.me/AlesonMedeiros" },
     { linkedin = "https://www.linkedin.com/in/alesonmedeiros/" },
   ]
 
